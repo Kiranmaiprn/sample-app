@@ -1,2 +1,0 @@
-class AddColumnsToStudent < ApplicationRecord
-end
